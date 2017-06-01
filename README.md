@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 
 ---
 
-### Reflection
+### 1.  Reflection
 
 
 * Step 1: Bring in the image for processing as an RBG to view both white lane marking and yellow lane marking
